@@ -3,7 +3,7 @@
 **Landing page template** built with HTML, CSS, and JavaScript, focused on UI consistency and responsiveness.
 
 ## 🖼 Screenshot
-![Kasper Template Screenshot](https://github.com/ahmedadwy/kasper_template/blob/main/screenshot.png)
+![Kasper Template Screenshot](https://github.com/ahmedadwy/coming_soon/blob/main/comming%20soon.jpg)
 
 ## 🔹 Features
 - Clean and modern UI design
@@ -23,3 +23,4 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/ahmedadwy/kasper_template.git
+
